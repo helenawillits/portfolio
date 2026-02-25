@@ -24,7 +24,7 @@
               <br />
             </h1>
             <p className="text-sm md:text-xl text-gray-400 leading-relaxed max-w-xl">
-            Junior developer with 2 years of professional experience building production-level applications at Amazon. 
+            Software developer with 2 years of professional experience building production-level applications at Amazon. 
             Strong foundation in AWS services (Lambda, S3, CDK), full stack development (Java, React), machine learning (Alexa, Q, Lex), 
             and solution design in an agile environment.
             </p>

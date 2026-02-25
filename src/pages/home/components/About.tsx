@@ -1,4 +1,4 @@
-import logo from "../../../assets/logo.png";
+import helena from "../../../assets/helena.JPG";
 
 export default function About() {
   return (
@@ -9,7 +9,7 @@ export default function About() {
           <div className="relative">
             <div className="relative w-full h-64 md:h-96 rounded-xl md:rounded-2xl overflow-hidden border border-gray-800">
             <img
-                src={logo}
+                src={helena}
                 alt="Helena Willits"
                 className="w-full h-full object-cover"
               />
