@@ -28,7 +28,7 @@ jobs:
           npm install
           npm run build
         env:
-          BASE_PATH: "/ProfessionalPortfolio/"
+          BASE_PATH: "/portfolio/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
